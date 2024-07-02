@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ICC-react-app/static/css/main.1bcce1ae.css",
+    "main.js": "/ICC-react-app/static/js/main.f94e873f.js",
+    "index.html": "/ICC-react-app/index.html",
+    "main.1bcce1ae.css.map": "/ICC-react-app/static/css/main.1bcce1ae.css.map",
+    "main.f94e873f.js.map": "/ICC-react-app/static/js/main.f94e873f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bcce1ae.css",
+    "static/js/main.f94e873f.js"
+  ]
+}
